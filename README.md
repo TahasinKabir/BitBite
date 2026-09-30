@@ -1,4 +1,3 @@
-[Uploading README.md…]()
 # BitBite 🍽️
 
 **A data-driven health and nutritional tracking application designed for personalized dietary management and weight tracking.**
